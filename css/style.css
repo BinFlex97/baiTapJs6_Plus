@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+h4{
+    color: white;
+}
+.setUp input, h4{
+    width:  70%;
+}
